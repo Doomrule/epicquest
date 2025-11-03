@@ -1,11 +1,21 @@
 {
   "id": "epicquest",
+  "type": "module",
+  "name": "epicquest",
   "title": "EpicQuest",
   "description": "Un module personnalisé pour D&D 5e, ajoutant des rôles, des armures, une chance d'esquive et des écoles de magie.",
   "version": "0.1.0",
-  "minimumCoreVersion": "11",
-  "compatibleCoreVersion": "12",
-  "author": "Dom",
+  "authors": [
+    {
+      "name": "Dom",
+      "url": "https://github.com/Doomrule"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12",
+    "maximum": "13"
+  },
   "scripts": ["scripts/epicquest.js"],
   "styles": [],
   "languages": [
