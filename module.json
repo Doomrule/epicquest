@@ -1,5 +1,5 @@
 {
-  "name": "epicquest",
+  "id": "epicquest",
   "title": "EpicQuest",
   "description": "Un module personnalisé pour D&D 5e, ajoutant des rôles, des armures, une chance d'esquive et des écoles de magie.",
   "version": "0.1.0",
